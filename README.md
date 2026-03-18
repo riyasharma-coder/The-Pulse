@@ -165,14 +165,20 @@ Retrieve mood history
 
 ---
 
-## 👩‍💻 Developer
+## 👩‍💻 Developers
 
-**Riya Sharma**
+### **Riya Sharma**
 
 * Android Developer
 * AI Enthusiast
+* GitHub: https://github.com/riyasharma-coder
 
-GitHub: https://github.com/riyasharma-coder
+---
+
+### **Ritika Raghav**
+
+* Frontend / Contributor
+* GitHub: https://github.com/ritikaraghav
 
 ---
 
