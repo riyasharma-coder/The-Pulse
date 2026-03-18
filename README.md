@@ -12,19 +12,35 @@
 * Track mental health trends 📊
 * Receive intelligent emotional support 🤖
 
-It combines **real-time chat, mood tracking, and AI-driven insights** to create a safe digital companion.
+It combines **real-time chat, mood tracking, and AI-driven insights** to create a safe and empathetic digital companion.
 
 ---
 
 ## 🎯 Problem Statement
 
-Mental health support is often:
+Mental health support today is often:
 
 * ❌ Expensive
 * ❌ Inaccessible
 * ❌ Stigmatized
 
-**The Pulse solves this by providing a private, AI-powered emotional support system available 24/7.**
+Many individuals hesitate to seek help due to fear of judgment or lack of resources.
+
+👉 **The Pulse solves this by providing a private, AI-powered emotional support system available 24/7.**
+
+---
+
+## 📄 Research & Innovation
+
+This project is backed by research work, making it more than just an application.
+
+### 🧠 Research Contribution
+
+* **Ritika Raghav**
+* Focus: AI-driven mental health support and emotion analysis
+* Explores how conversational AI can assist users in real-time emotional expression and guidance
+
+📌 *This research forms the foundation of The Pulse and guides its AI-driven features such as mood detection and emotional support responses.*
 
 ---
 
@@ -147,6 +163,15 @@ Retrieve mood history
 
 ---
 
+## 🏆 Hackathon Impact
+
+* Improves accessibility to mental health support
+* Provides stigma-free emotional interaction
+* Scalable AI-driven solution
+* Research-backed innovation
+
+---
+
 ## 🧠 Future Scope
 
 * 🔥 Deploy backend on cloud (AWS)
@@ -157,35 +182,19 @@ Retrieve mood history
 
 ---
 
-## 🏆 Hackathon Impact
+## 👩‍💻 Team
 
-* Improves accessibility to mental health support
-* Reduces stigma via private AI interaction
-* Scalable and deployable globally
-
----
-
-## 👩‍💻 Developers
-
-### **Riya Sharma**
-
-* Android Developer
-* AI Enthusiast
-* GitHub: https://github.com/riyasharma-coder
-
----
-
-### **Ritika Raghav**
-
-* Frontend / Contributor
-* GitHub: https://github.com/ritikaraghav
+| Name              | Role                                     | GitHub                              |
+| ----------------- | ---------------------------------------- | ----------------------------------- |
+| **Riya Sharma**   | Android Developer, AI Integration        | https://github.com/riyasharma-coder |
+| **Ritika Raghav** | Frontend Developer, Research Contributor | https://github.com/ritikaraghav     |
 
 ---
 
 ## ❤️ Contributing
 
 Contributions are welcome!
-Feel free to fork, improve, and submit PRs.
+Feel free to fork, improve, and submit pull requests.
 
 ---
 
