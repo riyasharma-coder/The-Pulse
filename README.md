@@ -77,22 +77,49 @@ This project is backed by research work, making it more than just an application
 
 ## 🏗️ Tech Stack
 
-### 📱 Frontend
+### 📱 Frontend (Web)
+* React with TypeScript
+* Vite for fast development
+* Tailwind CSS for modern UI
+* Recharts for mood analytics
+* Lucide React for iconography
 
+### 📱 Frontend (Mobile)
 * Kotlin
 * Jetpack Compose
 * Material 3 UI
 
 ### ⚙️ Backend
-
 * FastAPI (Python)
-* REST APIs
-* Uvicorn server
+* SQLite with SQLAlchemy for data persistence
+* AI Engines (Automated Fallback):
+  1. **OpenAI GPT-3.5/4**: Best emotional understanding (Paid)
+  2. **Google Gemini 1.5 Flash**: High quality, very generous free tier (Recommended Free Option)
+  3. **Hugging Face (Mistral)**: Fully free fallback
 
 ### 🤖 AI / ML
+* Emotion Detection: `j-hartmann/emotion-english-distilroberta-base`
+* AI Assistant: Multi-model support with Gemini/OpenAI/Mistral
 
-* Hugging Face Transformers (Planned)
-* LLM Integration (Planned)
+---
+
+## 🚀 Getting Started
+
+### 1. Backend Setup
+```bash
+cd backend
+pip install -r requirements.txt
+# Copy .env.example to .env and add your HF_API_KEY
+cp .env.example .env
+uvicorn main:app --reload --port 8000
+```
+
+### 2. Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
