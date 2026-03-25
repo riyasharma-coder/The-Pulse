@@ -30,20 +30,6 @@ Many individuals hesitate to seek help due to fear of judgment or lack of resour
 
 ---
 
-## 📄 Research & Innovation
-
-This project is backed by research work, making it more than just an application.
-
-### 🧠 Research Contribution
-
-* **Ritika Raghav**
-* Focus: AI-driven mental health support and emotion analysis
-* Explores how conversational AI can assist users in real-time emotional expression and guidance
-
-📌 *This research forms the foundation of The Pulse and guides its AI-driven features such as mood detection and emotional support responses.*
-
----
-
 ## 🚀 Features
 
 ### 💬 AI Emotional Chat
